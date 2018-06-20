@@ -1,7 +1,7 @@
 CV of Jinlong Allen CHEN
 ========================
 
-[PDF](https://raw.github.com/a3linux/resume/master/resume.pdf) and [more](https://github.com/a3linux/)
+[PDF](https://raw.github.com/a3linux/resume/master/resume.pdf) [HTML](https://github.com/a3linux/resume/blob/master/resume.md) or [more](https://github.com/a3linux/)
 
 Personal Information
 ---------------------
@@ -162,13 +162,15 @@ Volunteer Experience & Causes
 Self-Assessment
 ---------------
 
-*  Worked as Senior DevOps Engineer/Senior System Engineer more than twelve years
-*  Expert of GNU/Linux(RedHat/Fedora/Centos), also worked with HP-UX/AIX/Solaris, Windows
-*  Advanced AWS user with more than five years experience
-*  Familiar with Linux Shell, Python/Django and different Open Source operation tools
-*  Familiar with DevOPS culture and technology such as Infrastructure-As-Code, CI/CD, configuration management tools, monitoring tools ...
-*  Skills of operation, especially on automation, monitoring, troubleshotting, on-call routine, centralize log ...
-*  Skills as technique lead role focusing on roadmap of technique, infrastructure solution design and practice, development process roll out ...
-*  Good knowledge of microservice architecture, building and support high availablity / reliability / scalability services ...
-*  Good team work
-*  Languages: English & Mandarin
+-
+
+    *  Worked as Senior DevOps Engineer/Senior System Engineer more than twelve years
+    *  Expert of GNU/Linux(RedHat/Fedora/Centos), also worked with HP-UX/AIX/Solaris, Windows
+    *  Advanced AWS user with more than five years experience
+    *  Familiar with Linux Shell, Python/Django and different Open Source operation tools
+    *  Familiar with DevOPS culture and technology such as Infrastructure-As-Code, CI/CD, configuration management tools, monitoring tools ...
+    *  Skills of operation, especially on automation, monitoring, troubleshotting, on-call routine, centralize log ...
+    *  Skills as technique lead role focusing on roadmap of technique, infrastructure solution design and practice, development process roll out ...
+    *  Good knowledge of microservice architecture, building and support high availablity / reliability / scalability services ...
+    *  Good team work
+    *  Languages: English & Mandarin
