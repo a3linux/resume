@@ -1,18 +1,15 @@
 CV of Jinlong Allen CHEN
 ========================
 
-[PDF](https://raw.github.com/a3linux/resume/master/resume.pdf) [HTML](https://github.com/a3linux/resume/blob/master/resume.md) or [more](https://github.com/a3linux/)
+[PDF](https://raw.github.com/a3linux/resume/master/resume.pdf) [HTML](https://github.com/a3linux/resume/blob/master/resume.md) [LinkedIn](https://linkedin.com/in/a3linux/)
 
-Personal Information
+Contact Information
 ---------------------
 
-- *Name*: **Jinlong CHEN 陈金龙**(Allen CHEN)
-- *Gender*: Male
-- *Birth Date*： 09/18/1978
-- *Marital Status*: Married
-- *Nationality*: Chinese
-- *Mobile*: +65 8206 6140
-- *Email*: [a3linux@gmail.com](mailto:a3linux@gmail.com)
+- Name: **Jinlong CHEN 陈金龙**(Allen CHEN)
+- Mobile: +65 8206 6140
+- Email: [a3linux@gmail.com](mailto:a3linux@gmail.com)
+- Languages: English & Mandarin
 
 
 Work Experience
@@ -130,8 +127,8 @@ busi-ess and Game Developing Team
     - Mastered in Linux System administration
 
 
-Education
----------
+Education & Training
+---------------------
 
 * **East China University of Science and Technology(ECUST)** (1997-2001)
 
@@ -162,15 +159,12 @@ Volunteer Experience & Causes
 Self-Assessment
 ---------------
 
--
-
-    *  Worked as Senior DevOps Engineer/Senior System Engineer more than twelve years
-    *  Expert of GNU/Linux(RedHat/Fedora/Centos), also worked with HP-UX/AIX/Solaris, Windows
-    *  Advanced AWS user with more than five years experience
-    *  Familiar with Linux Shell, Python/Django and different Open Source operation tools
-    *  Familiar with DevOPS culture and technology such as Infrastructure-As-Code, CI/CD, configuration management tools, monitoring tools ...
-    *  Skills of operation, especially on automation, monitoring, troubleshotting, on-call routine, centralize log ...
-    *  Skills as technique lead role focusing on roadmap of technique, infrastructure solution design and practice, development process roll out ...
-    *  Good knowledge of microservice architecture, building and support high availablity / reliability / scalability services ...
-    *  Good team work
-    *  Languages: English & Mandarin
+*  Worked as Senior DevOps Engineer/Senior System Engineer more than twelve years
+*  Expert of GNU/Linux(RedHat/Fedora/Centos), also worked with HP-UX/AIX/Solaris, Windows
+*  Advanced AWS user with more than five years experience
+*  Familiar with Linux Shell, Python/Django and different Open Source operation tools
+*  Familiar with DevOPS culture and technology e.g. Infrastructure-As-Code, CI/CD, configuration management, monitoring tools
+*  Skills of operation, especially on automation, monitoring, troubleshotting, on-call routine, centralize log, etc.
+*  Skills as technique lead role focusing on infrastructure design, management practice and DevOPS transformation
+*  Good knowledge of microservice architecture, building and support high availablity / reliability / scalability services
+*  Good team work
