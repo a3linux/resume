@@ -2,7 +2,11 @@ SRC = $(wildcard *.md)
 
 PDFS=$(SRC:.md=.pdf)
 HTML=$(SRC:.md=.html)
-LATEX_TEMPLATE=./pandoc-templates/default.latex
+#LATEX_TEMPLATE=./pandoc-templates/default.latex
+LATEX_TEMPLATE=./default.latex
+DOCUMENTCLASS=extarticle
+FONTSIZE=14pt
+PAPERSIZE=a4paper
 
 all:    clean $(PDFS) $(HTML)
 
@@ -13,7 +17,7 @@ html:  clean $(HTML)
 	python resume.py html $(GRAVATAR_OPTION) < $< | pandoc -t html -c resume.css -o $@
 
 %.pdf:  %.md $(LATEX_TEMPLATE)
-	python resume.py tex < $< | pandoc $(PANDOCARGS) --variable subparagraph --template=$(LATEX_TEMPLATE) -H header.tex -o $@
+	python resume.py tex < $< | pandoc $(PANDOCARGS) --variable subparagraph --template=$(LATEX_TEMPLATE) -H header.tex --pdf-engine=xelatex -V fontsize=${FONTSIZE} -V papersize=${PAPERSIZE} -V documentclass=${DOCUMENTCLASS} -o $@
 
 ifeq ($(OS),Windows_NT)
   # on Windows
